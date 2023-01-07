@@ -51,6 +51,10 @@ body{
 	border-radius: 4px;
 	padding: 0 16px;
 }
+.card__btn a{
+	text-decoration: none;
+	color: #fff;
+}
 .input{
 	text-align: center;
 	width: 384px;
@@ -99,6 +103,10 @@ body{
 	height: 48px;
 	border-radius: 4px;
 	padding: 0 16px;
+}
+.input__btn a{
+	text-decoration: none;
+	color: #fff;
 }
 .input-icon{
 	position: absolute;
